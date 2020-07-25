@@ -41,3 +41,6 @@ Server side template injection
 Command injection via websockets (black box material)
 ```
 
+## Reviews interessantes ##
+
+https://hackmd.io/@Chivato/Hyflsx0ZI
