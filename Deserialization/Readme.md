@@ -2,7 +2,7 @@
 
 Essa seção é dedicada a todo material de Deserialization. Links, Scripts marotos, e quaisquer outras coisas relacionadas ao tópico.
 
-#### Links de referências:
+### Links de referências
 
 **Deserialization em geral**
 
